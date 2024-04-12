@@ -19,6 +19,5 @@ function handlekeypress(event){
             display.value += keyMap[key];
         }
     }
-    
 }
 document.addEventListener('keydown', handlekeypress);
